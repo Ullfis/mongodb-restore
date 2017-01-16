@@ -24,10 +24,10 @@
   },
   "main": "index.min.js",
   "dependencies": {
-    "bson": "1.0.1",
+    "bson": "1.0.4",
     "graceful-fs": "4.1.11",
     "logger-request": "3.7.3",
-    "mongodb": "2.2.16",
+    "mongodb": "~2.2.21",
     "tar": "2.2.1"
   },
   "devDependencies": {
